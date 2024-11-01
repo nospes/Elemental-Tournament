@@ -1,5 +1,5 @@
 # Elemental-Tournament
-Jogo de luta em javascript sem bibliotecas
+Jogo de luta entre magos elementais feito em javascript sem bibliotecas
 - Engine propria
 
 - Raio; direções: setas 1º skill: 1 do numpad 2º skill:3 do numpad 3º skill:2 do numpad
